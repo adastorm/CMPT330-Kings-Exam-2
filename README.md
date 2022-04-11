@@ -13,3 +13,5 @@
 - Page Replacement Algorithems [Here](https://quizlet.com/_beavdr?x=1qqt&i=qpnv8)
 
 - Paging Design Issues [here](https://quizlet.com/_beb39a?x=1qqt&i=qpnv8)
+
+- File Systems [here](https://quizlet.com/_bebapl?x=1qqt&i=qpnv8)
