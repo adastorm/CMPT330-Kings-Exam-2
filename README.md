@@ -4,6 +4,8 @@
 
 ### Quizlet Resources
 
+- Main quizlet FOlder [here](https://quizlet.com/adastorm/folders/cmpt330?x=1xqt&i=qpnv8)
+
 - Processes Quizlet [Here](https://quizlet.com/_bbrxre?x=1qqt&i=qpnv8)
   
 - Memory Management Quizlet [Here](https://quizlet.com/_bbs00s?x=1qqt&i=qpnv8)
