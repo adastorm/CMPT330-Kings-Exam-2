@@ -9,3 +9,5 @@
 - Memory Management Quizlet [Here](https://quizlet.com/_bbs00s?x=1qqt&i=qpnv8)
 
 - Paging Quiz [Here](https://quizlet.com/_bcxygv?x=1qqt&i=qpnv8)
+
+- Page Replacement Algorithems [Here](https://quizlet.com/_beavdr?x=1qqt&i=qpnv8)
