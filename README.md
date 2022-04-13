@@ -2,6 +2,10 @@
 
 ---
 
+### What this test contains
+ - From cemaphores -> end
+ - rmember the oompa loompa lab, and the assignments
+
 ### Quizlet Resources
 
 - Main quizlet FOlder [here](https://quizlet.com/adastorm/folders/cmpt330?x=1xqt&i=qpnv8)
