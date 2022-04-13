@@ -3,7 +3,7 @@
 ---
 
 ### What this test contains
- - From cemaphores -> end
+ - From cemaphores (inter process communication) -> end
  - rmember the oompa loompa lab, and the assignments
 
 ### Quizlet Resources
