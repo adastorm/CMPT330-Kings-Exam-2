@@ -2,6 +2,8 @@
 
 ---
 
+## [For A Nicer Site Click Here](https://adastorm.github.io/CMPT330-Kings-Exam-2/)
+
 ### What this test contains
  - From cemaphores (inter process communication) -> end
  - rmember the oompa loompa lab, and the assignments
