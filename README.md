@@ -25,3 +25,7 @@
 - File Systems [here](https://quizlet.com/_bebapl?x=1qqt&i=qpnv8)
 
 - File System implimentation [here](https://quizlet.com/_bebp09?x=1qqt&i=qpnv8)
+
+
+### My Weird Notes
+They can be found
