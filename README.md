@@ -28,4 +28,5 @@
 
 
 ### My Weird Notes
-They can be found
+The PDF Version is [Here](notes.pdf)
+and the OneNote Link is [Here](https://1drv.ms/u/s!AounE5HOfLTG-F_Ko-aCXL_XvMGK?e=RwyQ2c)
