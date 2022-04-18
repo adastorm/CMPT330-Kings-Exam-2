@@ -10,6 +10,8 @@
 
 - Main quizlet FOlder [here](https://quizlet.com/adastorm/folders/cmpt330?x=1xqt&i=qpnv8)
 
+- Inter-Process Communucation [here](https://quizlet.com/_bfhe0f?x=1jqt&i=qpnv8)
+
 - Processes Quizlet [Here](https://quizlet.com/_bbrxre?x=1qqt&i=qpnv8)
   
 - Memory Management Quizlet [Here](https://quizlet.com/_bbs00s?x=1qqt&i=qpnv8)
