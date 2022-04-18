@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Computer 330 Exam Part 2 Materials
 
-You can use the [editor on GitHub](https://github.com/adastorm/CMPT330-Kings-Exam-2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What this test contains
+ - From cemaphores (inter process communication) -> end
+ - rmember the oompa loompa lab, and the assignments
 
-### Markdown
+### Quizlet Resources
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Main quizlet FOlder [here](https://quizlet.com/adastorm/folders/cmpt330?x=1xqt&i=qpnv8)
 
-```markdown
-Syntax highlighted code block
+- Inter-Process Communucation [here](https://quizlet.com/_bfhe0f?x=1jqt&i=qpnv8)
 
-# Header 1
-## Header 2
-### Header 3
+- Processes Quizlet [Here](https://quizlet.com/_bbrxre?x=1qqt&i=qpnv8)
+  
+- Memory Management Quizlet [Here](https://quizlet.com/_bbs00s?x=1qqt&i=qpnv8)
 
-- Bulleted
-- List
+- Paging Quiz [Here](https://quizlet.com/_bcxygv?x=1qqt&i=qpnv8)
 
-1. Numbered
-2. List
+- Page Replacement Algorithems [Here](https://quizlet.com/_beavdr?x=1qqt&i=qpnv8)
 
-**Bold** and _Italic_ and `Code` text
+- Paging Design Issues [here](https://quizlet.com/_beb39a?x=1qqt&i=qpnv8)
 
-[Link](url) and ![Image](src)
-```
+- File Systems [here](https://quizlet.com/_bebapl?x=1qqt&i=qpnv8)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- File System implimentation [here](https://quizlet.com/_bebp09?x=1qqt&i=qpnv8)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adastorm/CMPT330-Kings-Exam-2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### My Weird Notes
+The PDF Version is [Here](notes.pdf)
+and the OneNote Link is [Here](https://1drv.ms/u/s!AounE5HOfLTG-F_Ko-aCXL_XvMGK?e=RwyQ2c)
