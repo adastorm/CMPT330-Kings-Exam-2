@@ -28,5 +28,5 @@
 
 
 ### My Weird Notes
-The PDF Version is [Here](notes.pdf)
+The PDF Version is [Here](https://github.com/adastorm/CMPT330-Kings-Exam-2/blob/d2b4c3512c614e9a6a28017e8142f9e3aa6372e2/notes.pdf)
 and the OneNote Link is [Here](https://1drv.ms/u/s!AounE5HOfLTG-F_Ko-aCXL_XvMGK?e=RwyQ2c)
